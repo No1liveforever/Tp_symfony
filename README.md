@@ -21,3 +21,6 @@ o Créer des formulaires Symfony pour ajouter et modifier des projets.
 o Gérer la validation des formulaires et afficher les erreurs dans les vues Twig.
 Détails supplémentaires à implémenter:  Un projet doit avoir un titre, une description, une date de début, une date de fin, un 
 statut (en cours, terminé) et un utilisateur responsable.  Un utilisateur doit avoir un nom, un email et un mot de passe.  Implémenter une fonctionnalité de recherche par titre de projet et de filtrage par statut.
+ Permettre aux utilisateurs d’ajouter des images ou des documents associés aux projets.  Implémenter une fonctionnalité de tagging pour les projets (ex. : web, mobile, data 
+science).  Afficher les projets dans une vue en grille avec des cartes contenant les informations 
+principales des projets.  Créer une page de profil utilisateur où l'utilisateur peut voir tous ses projets listés.
